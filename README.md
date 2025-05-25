@@ -52,7 +52,8 @@ Responsive Design: Adapts to different screen sizes using MediaQuery
 
 Logic Architecture
 Core Components
-1. CalculatorForm (StatefulWidget)
+
+CalculatorForm (StatefulWidget)
 
 Purpose: Main UI container and state management
 State Management: Uses setState() to update the display
@@ -64,7 +65,7 @@ Orchestrates communication between UI and logic
 
 
 
-2. CalculatorLogic (Static Class)
+CalculatorLogic (Static Class)
 
 Purpose: Contains all business logic for calculations
 Design Pattern: Static methods for stateless operations
